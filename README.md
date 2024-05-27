@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
 
-<!--
-**Clarinhast04/Clarinhast04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Clara
 
-Here are some ideas to get you started:
+- 18 anos.
+- Sou estudante do ensino médio.👩‍🎓
+- Ariana♈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- *Se quiser entrar em contato* 
+- Instagram: @mariaclara_560
+
+- 
+![](https://media1.tenor.com/m/x1dYnqeehLAAAAAC/stitch-sad-sad-stitch.gif)
